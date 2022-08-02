@@ -6,12 +6,16 @@ This game has users playing the part of DNA polymerase, matching DNA bases toget
 
 Here are some screenshots of the game.
 
+The starting page.</br>
 ![Image of home page.](./screenshots/home-page.png "Starting page")
 
+The countdown.</br>
 ![Image of countdown to start.](./screenshots/countdown-go.png "Countdown")
 
+The main game.</br>
 ![Image of game being played.](./screenshots/playing-game.png "Playing")
 
+Game over.</br>
 ![Image of game over.](./screenshots/lost-game.png "Game over")
 
 
